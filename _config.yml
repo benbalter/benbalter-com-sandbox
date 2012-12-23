@@ -58,3 +58,4 @@ server: true
 auto: true
 pygments: true
 lsi: false
+safe: true
