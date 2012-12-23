@@ -4,7 +4,6 @@ title: Resume
 excerpt: Ben Balter is a gov 2.0 evangelist working to hack federal government from the inside out, an open-source developer passionate about the disruptive power of technology, and a J.D./M.B.A. candidate at the George Washington University.
 layout: page
 permalink: /resume/
-id: /resume
 ---
 
 # Benjamin J. Balter
@@ -104,21 +103,13 @@ Described by the US Chief Technology Officer as "the baddest of the badass innov
 
 #### Web Development and Management
 
-*   Expertise in modern web development methods — HTML5, CSS, CoffeeScript (Javascript), Rails (Ruby), relational databases (MySQL), PHP, verson control (Git) — enterprise system architecture; application programing interfaces (APIs); WordPress management, development, and integration; and Unix system administration.
+*   Expertise in modern web development methods — HTML5, CSS, CoffeeScript (Javascript), Rails (Ruby), relational databases (MySQL), PHP, version control (Git) — enterprise system architecture; application programing interfaces (APIs); WordPress management, development, and integration; and Unix system administration.
 *   Lead development of six active open-source projects with more than 60,000 downloads to date.
 
 #### Speaking Experience
 
-*   [South by Southwest][1] Interactive, panelist, [Content and Coding are not Commodities][2]
-*   Guest lecturer, American University, [Personal Branding and Social Media][3]
-*   [CrushIQ][4], speaker, <a title="Making WordPress More Shareable, Sociable, and Likeable" href="http://ben.balter.com/2011/11/14/making-wordpress-more-shareable-sociable-and-likeable/" rel="bookmark">Making WordPress More Shareable, Sociable, and Likeable</a>.
-*   Social Media Summit, panelist, [The Digital Me: Personal Branding][5]
-*   Present regularly at [local technology][6] meetups including Hacks/Hackers DC, [Drupal4Gov][7], and WordPress DC
-
- [1]: http://sxsw.com
- [2]: http://panelpicker.sxsw.com/ideas/view/10270
- [3]: http://ben.balter.com/2011/03/09/craft-your-personal-brand/
- [4]: http://crushIQ.com
- [5]: http://sls2012.sched.org/event/17d29cfcb8dcba402bfc0b75368e15ae
- [6]: http://ben.balter.com/2011/04/12/love-the-code/
- [7]: http://ben.balter.com/digital-strategy-reporting/
+*   [South by Southwest](http://sxsw.com) Interactive, panelist, [Content and Coding are not Commodities](http://panelpicker.sxsw.com/ideas/view/10270)
+*   Guest lecturer, American University, [Personal Branding and Social Media](http://ben.balter.com/2011/03/09/craft-your-personal-brand/)
+*   [CrushIQ](http://crushIQ.com), speaker, <a title="Making WordPress More Shareable, Sociable, and Likeable" href="http://ben.balter.com/2011/11/14/making-wordpress-more-shareable-sociable-and-likeable/" rel="bookmark">Making WordPress More Shareable, Sociable, and Likeable</a>.
+*   Social Media Summit, panelist, [The Digital Me: Personal Branding](http://sls2012.sched.org/event/17d29cfcb8dcba402bfc0b75368e15ae)
+*   Present regularly at [local technology](http://ben.balter.com/2011/04/12/love-the-code/) meetups including Hacks/Hackers DC, [Drupal4Gov](http://ben.balter.com/digital-strategy-reporting/), and WordPress DC
