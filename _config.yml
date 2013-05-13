@@ -1,16 +1,16 @@
 #Jekyll config file
 
 #title of site
-name: Benjamin J. Balter
+name: Ben Balter
 
 #description of site
-description:  J.D./M.B.A. Candidate, Open-Source Developer, Gov 2.0 Evangelist
+description: "GitHubber, Gov 2.0 Evangelist, Aspiring Attorney"
 
 #URL of site, include http://, do not include a trailing slash
 url: http://ben.balter.com
 
 #files to exclude, array
-exclude: [ 'readme.md', 'php' ]
+exclude: [ 'readme.md', 'php', 'node_modules', 'Gruntfile.coffee', 'package.json' ]
 
 #posts per page
 paginate: 10
@@ -24,7 +24,7 @@ permalink: /:year/:month/:day/:title/
 #prose config, see http://prose.io/help/handbook.html
 prose:
   metadata:
-    "_posts/posts": |
+    "_posts": |
       title: "Title of the post"
       excerpt: "SEO friendly description"
       author: "Your Name Here"
@@ -33,28 +33,33 @@ prose:
       category: 
       tags: 
       published: false
-    "_posts/pages": |
+    "/": |
       title: "Title of the page"
       excerpt: "SEO friendly description"
       layout: page
       published: false
-    
+  siteurl: "http://ben./balter.com"
+
 #Twitter Widget
 twitter: 
   username: "benbalter"
   count: 5
-  
+
 #disqus widget
 disqus:
   shortname: 'benbalter'
   count: 5
   api_key: "OQ5OlN2AtWDfIQ0bjIGwdfq9SsEB3P8NdzhYTRak7R45KeAD744aVIqJZDYqvmuL"
-  
+
 #google analytics username
 ga_username: 'UA-18088627-1'
 
 #build config
+<<<<<<< HEAD
 server: true
 auto: true
 pygments: true
 safe: true
+=======
+pygments: true
+>>>>>>> a0cad9506aa3ac9a1ac09227db4957b1ffb1ff32

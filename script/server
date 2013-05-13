@@ -1,0 +1,12 @@
+#!/bin/sh
+
+set -e
+
+echo "building assets"
+grunt
+
+echo "Starting server."
+bundle exec jekyll serve -w
+
+echo "Cleaning up..."
+rm -Rf _site

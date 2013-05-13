@@ -4,6 +4,11 @@ title: Resume
 excerpt: Ben Balter is a gov 2.0 evangelist working to hack federal government from the inside out, an open-source developer passionate about the disruptive power of technology, and a J.D./M.B.A. candidate at the George Washington University.
 layout: page
 permalink: /resume/
+<<<<<<< HEAD
+=======
+id: /resume
+
+>>>>>>> a0cad9506aa3ac9a1ac09227db4957b1ffb1ff32
 ---
 
 # Benjamin J. Balter
@@ -12,15 +17,26 @@ permalink: /resume/
 
 ## Experience
 
+### GitHub
+
+{.location}Washington, D.C.
+
+#### Government Bureaucat
+
+{.date}March 2013 — Present
+
 ### Executive Office of the President
 
 {.location}Washington, D.C.
 
 #### Presidential Innovation Fellow
 
-{.date}July 2012 — Present
+{.date}July 2012 — January 2013
 
-Described by the US Chief Technology Officer as "the baddest of the badass innovators," and by the White House Director of Digital Strategy as "<a href="http://www.youtube.com/watch?v=uhtlOYOhE8w#t=51m12s">lightning in a bottle</a>," serve as entrepreneur in residence reimagining the role of technology in brokering the relationship between citizens and government.
+* As member of inaugural class of high-profile White House initiative, served as entrepreneur in residence reimagining the role of technology in brokering the relationship between citizens and government while injecting a more startup-like culture within government. 
+* Described by the US Chief Technology Officer as "the baddest of the badass innovators," and by the White House Director of Digital Strategy as "<a href="http://www.youtube.com/watch?v=uhtlOYOhE8w#t=51m12s">lightning in a bottle</a>." 
+* Within six months, saw four distinct open-source products from conception to production, including research, prototyping, usability, development, testing, and stakeholder outreach using then-atypical api-first architecture.
+* Ensured compliance with Privacy Act, Paperwork Reduction Act, and Federal Information Security Mangagement Act including drafting of multiple formal notices on behalf of the government for publication in the Federal Register.
 
 #### Fellow, Office of the US Chief Information Officer
 
@@ -57,14 +73,6 @@ Described by the US Chief Technology Officer as "the baddest of the badass innov
 * Received Superior Achievement Award for customer service, quality performance, and overall contribution to the agency mission.
 * Led adoption, implementation, and analysis of Google Analytics website visitor tracking statistics.
 * Developed more than 30 in-house software tools including [open-source website auditing and site-mapping software](http://github.com/fcc) instrumental to evaluation of online presence spanning more than 1.2 million pages.
-
-### Google Summer of Code
-
-#### Developer, WordPress Document Revisions
-
-{.date}April 2011 — August 2011
-
-* With stipend from Google, developed government- and enterprise-friendly, [open-source document and workflow management system](http://ben.balter.com/2011/08/29/wp-document-revisions-document-management-version-control-wordpress/) for WordPress, the content management system that powers nearly a quarter of new websites today. The project has been downloaded more than 25,000 times to date.
 
 ## Education
 
@@ -103,6 +111,7 @@ Described by the US Chief Technology Officer as "the baddest of the badass innov
 
 #### Web Development and Management
 
+<<<<<<< HEAD
 *   Expertise in modern web development methods — HTML5, CSS, CoffeeScript (Javascript), Rails (Ruby), relational databases (MySQL), PHP, version control (Git) — enterprise system architecture; application programing interfaces (APIs); WordPress management, development, and integration; and Unix system administration.
 *   Lead development of six active open-source projects with more than 60,000 downloads to date.
 
@@ -113,3 +122,19 @@ Described by the US Chief Technology Officer as "the baddest of the badass innov
 *   [CrushIQ](http://crushIQ.com), speaker, <a title="Making WordPress More Shareable, Sociable, and Likeable" href="http://ben.balter.com/2011/11/14/making-wordpress-more-shareable-sociable-and-likeable/" rel="bookmark">Making WordPress More Shareable, Sociable, and Likeable</a>.
 *   Social Media Summit, panelist, [The Digital Me: Personal Branding](http://sls2012.sched.org/event/17d29cfcb8dcba402bfc0b75368e15ae)
 *   Present regularly at [local technology](http://ben.balter.com/2011/04/12/love-the-code/) meetups including Hacks/Hackers DC, [Drupal4Gov](http://ben.balter.com/digital-strategy-reporting/), and WordPress DC
+=======
+* Expertise in modern web development methods — HTML5, CSS, CoffeeScript (Javascript), Rails (Ruby), relational databases (MySQL), PHP, verson control (Git) — enterprise system architecture; application programing interfaces (APIs); WordPress management, development, and integration; and Unix system administration.
+* Lead development of six active open-source projects with more than 60,000 downloads to date.
+
+#### Speaking Experience
+
+* [South by Southwest][1] Interactive, panelist, [Content and Coding are not Commodities][2]
+* Guest lecturer, American University, [Personal Branding and Social Media][3]
+* Present regularly within federal government including [implementation of the Digital Strategy](http://ben.balter.com/digital-strategy-reporting/#/title) within GSA's [Digital Services Innovation Center](https://github.com/benbalter/apis-you-didnt-know-already-existed) and at [local technology][6] meetups including Hacks/Hackers DC, [Drupal4Gov][7], and WordPress DC
+
+ [1]: http://sxsw.com
+ [2]: http://panelpicker.sxsw.com/ideas/view/10270
+ [3]: http://ben.balter.com/2011/03/09/craft-your-personal-brand/
+ [6]: http://ben.balter.com/2011/04/12/love-the-code/
+ [7]: http://ben.balter.com/digital-strategy-reporting/
+>>>>>>> a0cad9506aa3ac9a1ac09227db4957b1ffb1ff32
