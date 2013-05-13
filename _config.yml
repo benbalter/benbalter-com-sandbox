@@ -55,11 +55,4 @@ disqus:
 ga_username: 'UA-18088627-1'
 
 #build config
-<<<<<<< HEAD
-server: true
-auto: true
 pygments: true
-safe: true
-=======
-pygments: true
->>>>>>> a0cad9506aa3ac9a1ac09227db4957b1ffb1ff32
